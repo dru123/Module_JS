@@ -1,0 +1,1 @@
+#readme.md for  dir2
