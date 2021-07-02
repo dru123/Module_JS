@@ -49,7 +49,7 @@ let path=require("path");
 //fs.writeFileSync(path.join(dir+"readme.md"),`# readme for  dir${i}`)
 // }
 
-//join ->takii cross patform m koi isssue  n aye...
+//join ->takii cross patform m koi isssue  n aye... 
 
 // used  to give the extension of file u want 
  let ext=path.extname(path.join(__dirname,"file.js"));
